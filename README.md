@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Sudarshan Regmi. I am an independent researcher based in Nepal. My research interests broadly revolve around trustworthy machine learning. In the past, I have worked extensively on Out-of-Distribution Detection. My two recent solo-author works are: ASCOOD (https://arxiv.org/abs/2411.10794) and AdaSCALE (https://arxiv.org/abs/2503.08023).
+
+I obtained my Bachelor's degree in 2022 from the Department of Electronics and Computer Engineering at Pulchowk Campus, Tribhuvan University.
+
+Please feel free to connect with me at: sudarshanregmi9@gmail.com / sudarshan.regmi.gr@dartmouth.edu
 <!--
 **sudarshanregmi/sudarshanregmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
