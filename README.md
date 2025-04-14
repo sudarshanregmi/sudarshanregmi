@@ -4,7 +4,7 @@ I am Sudarshan Regmi. I am an independent researcher based in Nepal. My research
 
 I obtained my Bachelor's degree in 2022 from the Department of Electronics and Computer Engineering at Pulchowk Campus, Tribhuvan University.
 
-Please feel free to connect with me at: sudarshanregmi9@gmail.com / sudarshan.regmi.gr@dartmouth.edu
+Please feel free to connect with me at: sudarshanregmi9@gmail.com
 <!--
 **sudarshanregmi/sudarshanregmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
