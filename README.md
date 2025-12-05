@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sudarshan Regmi, a PhD student at Dartmouth College, fortunate to be supervised by Prof. Andrew Campbell. My current research focuses on the application of large language models to time series data. Previously, I worked on out-of-distribution detection (in computer vision).
+I am Sudarshan Regmi, a PhD student at Dartmouth College, fortunate to be supervised by Prof. Andrew Campbell. My current research focuses on the application of large language models to time series modality. Previously, I worked on out-of-distribution detection (in computer vision).
 
 I obtained my Bachelor's degree in 2022 from the Department of Electronics and Computer Engineering at Pulchowk Campus, Tribhuvan University.
 
